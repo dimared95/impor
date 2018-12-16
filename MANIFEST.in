@@ -1,4 +1,0 @@
-include README
-include LICENSE
-include setup.py
-recursive-include importlib *.py
